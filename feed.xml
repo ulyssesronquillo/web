@@ -4,7 +4,7 @@
   <id>http://0.0.0.0:4000/</id>
   <title>uly.rocks</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-09-05T16:12:43-05:00</updated>
+  <updated>2022-09-05T16:21:48-05:00</updated>
   <author>
     <name>Ulysses Ronquillo</name>
     <uri>http://0.0.0.0:4000/</uri>
@@ -49,6 +49,8 @@
 
 
       Welcome. This is my first ever post using Jekyll Chirpy theme. Hope to post more entries in the future.
+
+That’s it for now.
 
     </summary>
   
