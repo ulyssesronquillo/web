@@ -1,0 +1,60 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://0.0.0.0:4000/</id>
+  <title>uly.rocks</title>
+  <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
+  <updated>2022-09-05T16:12:43-05:00</updated>
+  <author>
+    <name>Ulysses Ronquillo</name>
+    <uri>http://0.0.0.0:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://0.0.0.0:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator>
+  <rights> © 2022 Ulysses Ronquillo </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Welcome</title>
+    <link href="http://0.0.0.0:4000/posts/welcome/" rel="alternate" type="text/html" title="Welcome" />
+    <published>2022-09-05T13:57:00-05:00</published>
+  
+    <updated>2022-09-05T13:57:00-05:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/welcome/</id>
+    <content src="http://0.0.0.0:4000/posts/welcome/" />
+    <author>
+      <name>Ulysses Ronquillo</name>
+    </author>
+
+  
+    
+    <category term="Welcome" />
+    
+    <category term="Jekyll" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Welcome. This is my first ever post using Jekyll Chirpy theme. Hope to post more entries in the future.
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
